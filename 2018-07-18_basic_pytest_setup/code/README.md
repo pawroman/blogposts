@@ -1,6 +1,6 @@
 # Code for "Basic Python testing setup with pytest" blog post
 
-Originally published on: https://iwwn.pl/post/pytest-basic-setup/
+Originally published on: https://pawroman.gitlab.io/pytest-basic-setup/
 
 Please head to the post link for more details.
 
